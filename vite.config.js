@@ -4,4 +4,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   assetsInclude: ['**/*.JPEG'],
   plugins: [react()],
+  base: "/ProtfolioWebsite/",
 });
