@@ -3,8 +3,8 @@ import styles from "./MyProjects.module.css";
 import { FaAward, FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 // ✅ Import your slideshow images
-import proj1 from "../../assets/proj1.jpeg";
-import proj2 from "../../assets/proj2.jpeg";
+import proj1 from "../../assets/proj1.JPEG";
+import proj2 from "../../assets/proj2.JPEG";
 import proj3 from "../../assets/proj3.jpg";
 
 export const MyProjects = () => {
